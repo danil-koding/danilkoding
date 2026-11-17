@@ -1,0 +1,9 @@
+{
+  "name": "danilkoding",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "python3 -m http.server 4173 --bind 127.0.0.1 --directory portfolio/dist",
+    "check": "node --check portfolio/dist/app.js && node --check portfolio/dist/projects.js && node --check portfolio/dist/hero.js"
+  }
+}
