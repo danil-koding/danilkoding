@@ -4,7 +4,11 @@
 
 Адаптивный статический сайт на русском языке. HTML, CSS и JavaScript без сборщика и сторонних JavaScript-зависимостей.
 
-Подготовлена публикация: GitHub Pages через `.github/workflows/pages.yml`. Workflow публикует только `portfolio/dist` после изменений в `main`.
+Адрес сайта: https://danil-koding.github.io/danilkoding/
+
+Репозиторий: https://github.com/danil-koding/danilkoding
+
+Публикация: GitHub Pages через `.github/workflows/pages.yml`. Workflow публикует только `portfolio/dist` после изменений в `main`.
 
 ## Локальный запуск
 
